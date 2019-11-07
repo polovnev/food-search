@@ -1,4 +1,4 @@
-package com.foor_search.controller;
+package com.food_search.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
